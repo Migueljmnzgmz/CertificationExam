@@ -25,5 +25,6 @@ class Day8Solution{
                 System.out.println("Not found");
         }
         in.close();
+
     }
 }
