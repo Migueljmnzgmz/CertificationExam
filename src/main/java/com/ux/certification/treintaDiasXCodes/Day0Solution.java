@@ -15,4 +15,5 @@ public class Day0Solution {
 
         scanner.close();
     }
+
 }
