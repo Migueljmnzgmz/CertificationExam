@@ -1,5 +1,6 @@
 package com.ux.certification.treintaDiasXCodes;
 
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
