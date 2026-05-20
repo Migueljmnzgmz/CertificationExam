@@ -54,4 +54,5 @@ public class Day2Solution {
 
         bufferedReader.close();
     }
+
 }
