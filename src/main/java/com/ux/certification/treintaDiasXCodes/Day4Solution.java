@@ -42,6 +42,7 @@ public class Day4Solution {
             p.amIOld();
             System.out.println();
         }
+
         sc.close();
     }
 }
