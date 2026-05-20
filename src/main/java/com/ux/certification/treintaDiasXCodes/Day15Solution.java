@@ -11,8 +11,6 @@ class Node {
         next = null;
     }
 }
-
-
 class Day15Solution {
     public static Node insert(Node head, int data) {
         if (head == null) head = new Node(data);
