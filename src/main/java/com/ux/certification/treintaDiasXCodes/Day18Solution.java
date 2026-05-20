@@ -3,6 +3,7 @@ package com.ux.certification.treintaDiasXCodes;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+
 public class Day18Solution {
     private LinkedList stack;
     private LinkedList queue;
