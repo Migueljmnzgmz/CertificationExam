@@ -2,6 +2,7 @@ package com.ux.certification.treintaDiasXCodes;
 
 import java.util.Scanner;
 
+
 interface AdvancedArithmetic {
     int divisorSum(int n);
 }
