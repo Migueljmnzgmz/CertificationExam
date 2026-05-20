@@ -2,6 +2,7 @@ package com.ux.certification.treintaDiasXCodes;
 
 import java.util.Scanner;
 
+
 abstract class Book {
     String title;
     String author;
