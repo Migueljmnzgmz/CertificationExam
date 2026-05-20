@@ -22,6 +22,7 @@ public class Day11Solution {
             }
         }
 
+
         System.out.println(max);
     }
 }
