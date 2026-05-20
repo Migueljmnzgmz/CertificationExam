@@ -21,5 +21,6 @@ public class Day10Solution {
             n = n / 2;
         }
         System.out.println(max);
+
     }
 }
