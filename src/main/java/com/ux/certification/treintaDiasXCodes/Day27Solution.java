@@ -5,6 +5,7 @@ public class Day27Solution {
     static class TestDataEmptyArray {
         public static int[] get_array() {
             return new int[0];
+
         }
     }
 
