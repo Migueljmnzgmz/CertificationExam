@@ -2,6 +2,7 @@ package com.ux.certification.treintaDiasXCodes;
 
 import java.util.Scanner;
 
+
 public class Day25Solution {
     public static boolean isPrime(int n) {
         for (int i = 2; i <= Math.sqrt(n); i++) {
