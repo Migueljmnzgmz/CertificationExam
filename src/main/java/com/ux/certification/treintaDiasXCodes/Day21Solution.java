@@ -1,5 +1,6 @@
 package com.ux.certification.treintaDiasXCodes;
 
+
 class Day21Solution {
     private static <Element> void printArray(Element[] array) {
         for (Element element : array) {
