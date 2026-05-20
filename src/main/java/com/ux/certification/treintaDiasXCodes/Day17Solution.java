@@ -2,6 +2,7 @@ package com.ux.certification.treintaDiasXCodes;
 
 import java.util.Scanner;
 
+
 class Calculator {
 
     public int power(int n, int p) throws Exception {
