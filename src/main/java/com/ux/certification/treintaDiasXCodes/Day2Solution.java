@@ -34,8 +34,6 @@ class Result {
 
         System.out.println(result);
 
-        //Aqui acaba la respuesta
-
     }
 
 }
