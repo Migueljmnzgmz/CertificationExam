@@ -25,5 +25,6 @@ public class Day1Solution{
         System.out.println(s + stringInput);
 
         scanner.close();
+
     }
 }
