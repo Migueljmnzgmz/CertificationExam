@@ -1,5 +1,6 @@
 package com.ux.certification.treintaDiasXCodes;
 
+
 import java.util.Scanner;
 
 public class Day26Solution {
