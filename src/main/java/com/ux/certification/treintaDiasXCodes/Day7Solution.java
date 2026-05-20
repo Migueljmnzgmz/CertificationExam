@@ -3,6 +3,7 @@ package com.ux.certification.treintaDiasXCodes;
 import java.util.Scanner;
 
 public class Day7Solution {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
