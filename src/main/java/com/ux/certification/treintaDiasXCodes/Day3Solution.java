@@ -30,6 +30,7 @@ public class Day3Solution {
             }
         }
 
+
         bufferedReader.close();
     }
 }
